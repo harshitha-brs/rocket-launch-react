@@ -35,7 +35,6 @@ const Header = () => {
               </div>
             </div>
           </div>
-          <div><h1>JS Rocket Launch!</h1></div>
         </div>
       </header>
   );
