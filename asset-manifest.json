@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rocket-launch-react/static/css/main.9fd75463.css",
-    "main.js": "/rocket-launch-react/static/js/main.6f2aa0bc.js",
+    "main.js": "/rocket-launch-react/static/js/main.244df3b2.js",
     "static/js/453.1d2fbb4b.chunk.js": "/rocket-launch-react/static/js/453.1d2fbb4b.chunk.js",
     "static/media/BG.png": "/rocket-launch-react/static/media/BG.0805d1c579b3eb137695.png",
     "static/media/rocket-state3.gif": "/rocket-launch-react/static/media/rocket-state3.0cce5ae8b9d79215396c.gif",
@@ -9,11 +9,11 @@
     "static/media/logos.webp": "/rocket-launch-react/static/media/logos.da43a71817bfddbf20c8.webp",
     "index.html": "/rocket-launch-react/index.html",
     "main.9fd75463.css.map": "/rocket-launch-react/static/css/main.9fd75463.css.map",
-    "main.6f2aa0bc.js.map": "/rocket-launch-react/static/js/main.6f2aa0bc.js.map",
+    "main.244df3b2.js.map": "/rocket-launch-react/static/js/main.244df3b2.js.map",
     "453.1d2fbb4b.chunk.js.map": "/rocket-launch-react/static/js/453.1d2fbb4b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9fd75463.css",
-    "static/js/main.6f2aa0bc.js"
+    "static/js/main.244df3b2.js"
   ]
 }
