@@ -35,10 +35,6 @@ const Header = () => {
               </div>
             </div>
           </div>
-<<<<<<< HEAD
-=======
-          
->>>>>>> dc0f1a8084efc85fa5cf27cc925e75558c053149
         </div>
       </header>
   );
